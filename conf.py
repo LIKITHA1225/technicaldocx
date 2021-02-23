@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'ABC'
-copyright = '2021, Harideep'
-author = 'Harideep'
+project = 'GIT & GITHUB DOCUMENTATION'
+copyright = '2021, LIKITHA'
+author = 'LIKITHA'
 
 # The full version, including alpha/beta/rc tags
 release = '2021'
